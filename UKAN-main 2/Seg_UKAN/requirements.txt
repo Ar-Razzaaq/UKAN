@@ -1,0 +1,18 @@
+addict
+dataclasses
+pandas
+pyyaml
+albumentations
+tqdm
+tensorboardX
+# mmcv-full
+numpy
+opencv-python
+perceptual
+pillow
+scikit-image
+scipy
+tifffile
+timm
+typing-extensions
+yapf
